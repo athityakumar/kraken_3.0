@@ -7,6 +7,9 @@ Written on top of [ROS](http://ros.org).
 The build system is [rosbuild](http://wiki.ros.org/rosbuild).
 
 You would need a [ROSbuild workspace](http://wiki.ros.org/catkin/Tutorials/using_rosbuild_with_catkin#rosbuild_workspace_with_groovy_and_later) to work with this repository.
+We have to change this from rosbuild to [catkin](http://wiki.ros.org/catkin).
+And here is [the guide](http://wiki.ros.org/catkin/migrating_from_rosbuild#Converting_a_rosbuild_.28Dry.29_Package_to_a_catkin_.28Wet.29_Package) to implement this switch-over, from rosbuild to catkin. 
+
 
 ### System Requirements
 
